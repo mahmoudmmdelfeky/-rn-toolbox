@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "rn-toolbox",
+    "slug": "rn-toolbox",
+    "version": "0.1.0",
+    "description": "test",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.connect.rntoolbox"
+    },
+    "ios": {
+      "bundleIdentifier": "com.connect.rntoolbox"
+    }
+  }
+}
